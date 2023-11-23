@@ -1,4 +1,7 @@
-body{background-color: rgb(201, 255, 250)}
+body{
+background-color: rgb(201, 255, 250);
+margin: 20px;
+}
 h1{font-size: 40px;
 }
 x{font-size: 23px;
