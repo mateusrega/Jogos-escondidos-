@@ -1,5 +1,5 @@
 body{
-background-color: rgb(201, 255, 250);
+background-color: rgb(182, 236, 231);
 margin: 50px;
 }
 h1{font-size: 40px;
@@ -9,4 +9,6 @@ x{font-size: 23px;
 h3{font-size: 22px;
 }
 p{font-size: 20px;
+}
+a{color:aqua;
 }
