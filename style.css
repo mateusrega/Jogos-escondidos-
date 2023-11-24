@@ -3,7 +3,8 @@ background-color: #b6ece7;
 margin: 50px;
 }
 h1{font-size: 40px;
-border-color: rgb(162, 0, 255);
+border:15px; 
+color:rgb(162, 0, 255)
 }
 x{font-size: 23px;
 }
