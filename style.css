@@ -20,5 +20,5 @@ a{color:rgb(162, 0, 255);
 width: 200px;
 }
 div{display: flex;
- flex-direction:line
+ flex-direction:column
 }
