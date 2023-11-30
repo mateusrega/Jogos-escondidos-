@@ -19,5 +19,5 @@ a{color:rgb(162, 0, 255);
 .clowd{height: 354px;
 width: 200px;
 }
-.clowd,p{display: inline-block;
-}
+.clowd,p{display: inline-block;}
+.clowd,h3{display: inline-block;}
