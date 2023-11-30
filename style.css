@@ -21,7 +21,7 @@ width: 200px;
 display:inline-block ;
 margin: 30px;
 position: absolute;
- left:100px
+ left:10px
 }
 div{display: flex;
  flex-direction:column
