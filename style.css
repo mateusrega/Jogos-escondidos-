@@ -21,5 +21,6 @@ width: 200px;
 margin: 40px;
 display:flex;
 }
-.mario{size: 200%;
+.mario{width: 2560px;
+ height: 1440px;
 }
