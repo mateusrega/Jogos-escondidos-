@@ -30,5 +30,5 @@ display: flex;
 }
 .jogue{
 font-size: 30px;
--webkit-text-stroke:1px rgb(30, 255, 0);
+-webkit-text-stroke:1px rgb(0, 153, 255);
 }
