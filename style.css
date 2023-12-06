@@ -28,3 +28,6 @@ display:flex;
 .balão{
 display: flex;
 }
+.jogue{
+-webkit-text-stroke:1px rgb(30, 255, 0);
+}
