@@ -25,4 +25,6 @@ display:flex;
 .mario{width: 512px;
  height: 288px;
 }
-.b
+.balão{
+display: flex;
+}
